@@ -6,8 +6,9 @@
 - **CCID:** `rpreid`
 
 ## References and Resources
+https://stackoverflow.com/questions/16927103/onclicklistener-in-android-studio
+https://developer.android.com/develop/ui/views/components/button
 
-N/A
 
 ## Verbal Collaboration
 
